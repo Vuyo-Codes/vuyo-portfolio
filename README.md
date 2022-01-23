@@ -1,11 +1,16 @@
-# Getting Started with Create React App
+# Vuyo Matiti Mini Portfolio 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## What to do after cloning or downloading project?
 
-In the project directory, you can run:
+Create a folder to setup your project. Open it in Visual Studio code(Recommended) or any text editor of your choice.
 
+Open the terminal in the project directory and run the following git command:
+
+### `git clone https://github.com/Vuyo-Codes/vuyo-portfolio.git`
+
+After cloning the project you can run the following:
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -13,6 +18,19 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## Deployment
+The application was deployed on a simple static site hosting service called VERCEL.
+
+To learn more about  Vercel visit https://vercel.com/. 
+
+You can find the deployed version on :
+
+### `https://vuyo-portfolio-1.vercel.app`
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 ### `npm test`
 
@@ -39,11 +57,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-
-
-### Deployment
 
