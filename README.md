@@ -31,7 +31,7 @@ You can find the deployed version on :
 
 ## Preview
 
-<img width="1437" alt="Screenshot 2022-01-23 at 20 22 34" src="https://user-images.githubusercontent.com/97601729/150692404-22ce2b06-d24f-4553-b232-67c98965514d.png">
+<img width="500" alt="Screenshot 2022-01-23 at 20 22 34" src="https://user-images.githubusercontent.com/97601729/150692404-22ce2b06-d24f-4553-b232-67c98965514d.png">
 
 ## Learn More
 
